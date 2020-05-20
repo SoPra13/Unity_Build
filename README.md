@@ -1,3 +1,2 @@
 # Unity_Build
-I use this Repo in order to track the progress made within Unity
-The Actual Unity build will finally be integrated into the Frontend Repo of this group
+This repository is used to share the unity Source Code for JustOnce(c) made by Group 13 in the SoPra Course FS2020 
